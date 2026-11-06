@@ -1,23 +1,9 @@
-Jenkins Kiuwan plugin
-=====================
+# kiuwan-plugin
 
-Run Kiuwan static analysis of your code as part of your continuous integration process with Jenkins.
-http://wiki.jenkins-ci.org/display/JENKINS/Kiuwan+Plugin
+> **This repository has moved to a new public location.**
 
+The source code for this project is now maintained at:
 
-Installing
-----------
-You should usually just install the Jenkins Kiuwan plugin from your Jenkins
-Management console (look under available plugins)
+## [https://github.com/sembi-oss/kiuwan-plugin](https://github.com/sembi-oss/kiuwan-plugin)
 
-
-Building
---------
-
-$ mvn hpi:run
-
-This will build the plugin, grab everything needed and start you up a
-fresh Jenkins instance on a TCP/IP port for you to test against.
-
-Maven does have a habit of downloading the internet, but it's at least
-easy to use to hack on a plugin of something.
+Please update your bookmarks, forks, and any references to point to the new address.
